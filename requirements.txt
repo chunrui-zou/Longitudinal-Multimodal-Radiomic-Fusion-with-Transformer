@@ -1,0 +1,4 @@
+scikit-learn==1.6.1
+torch==2.5.1
+optuna==4.2.0
+numpy==2.0.2
